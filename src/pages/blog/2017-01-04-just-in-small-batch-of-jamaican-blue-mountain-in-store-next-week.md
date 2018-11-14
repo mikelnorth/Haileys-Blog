@@ -1,33 +1,39 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+templateKey: blog-post
+title: Spring
+date: 2018-11-13T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  We call it spring semester, or just “spring”, even though it’s pretty much
+  winter in Utah until May. As I mentioned in a previous post, spring semester
+  begins in January and that’s when we begin spring soccer. That first spring
+  semester I had my first taste of what the real nitty gritty side of college
+  soccer is. The fall previous we had taken 9th place in the PAC 12, one of our
+  worst finishes to date. So, the way that the coaches and staff decided to
+  change our path was to work us into the ground. I’m not really even
+  exaggerating when I say that, they kicked our butts day in and day out. In our
+  last team meeting of the fall, after the seniors had left, Rich told us that
+  if we weren’t willing to work hard and cry, bleed and sweat to get to where we
+  wanted to go, then we didn’t have any business on the team. He wasn’t joking. 
 tags:
   - jamaica
   - green beans
   - flavor
   - tasting
 ---
+![](/img/chemex.jpg)
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Our fitness consisted (and still consists) of these fun things called 15-second runs, or VO2 max runs as Cody likes to call them. The idea is that every person has their own distance that they run based on their own personal fitness level, rather than a “one size fits all” approach. So there were people like Janie who ran close to 40 yards down and back in 15 seconds, while people who were not as fit would run closer to 30 yards down and back. You work for 15 seconds, then have 10 yards to walk in 15 seconds as your rest time, and then you go again. Our first week we started out running for 4 minutes, which meant 8 runs. Then you get a 3-minute rest and go again. Each week we would run those on Tuesdays and Fridays and then the next week we would increase by two minutes. So the next week was 6 minutes (12 sprints), then 8 minutes (16 sprints), then 10 minutes (20 sprints), then we max out at 12 minutes (24 sprints) and we always do two sets. They are easily the hardest fitness I’ve ever had to do, no joke. My teammates would have to do this kind of fitness before or after a super hard practice, while I would sometimes have to run before or after more fitness since that’s all I could do. It was incredibly challenging in all aspects of the word.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+![](/img/coffee-gear.png)
 
-## A little history
+ I think what I was also struggling with, though, was my identity. It might sound crazy to people who don’t play sports or who haven’t had something consume their lives like sports do, but my identity was rooted in soccer. I didn’t know who I was without it and since I couldn’t fully play, I didn’t know who I was anymore. I did a lot of soul searching and talking with my parents and praying, but it wasn’t until one day in institute when I really came to terms with my situation and realized what this was supposed to teach me. We were discussing a talk given during October 2015 conference (I couldn’t tell you which one off the top of my head) and a specific quote came up: “When you cannot do what you have always done, you only do what matters most.” This seriously almost slapped me in the face. What mattered most to me? Obviously, soccer is important to me, but is it really what matters most? That’s when everything started to turn around. I tried to make the Savior and the gospel the center of my life. I strived to serve those around me. I reached out to girls that I didn’t even know who I had heard tore their ACL and tried to give them words of encouragement and advice. I realized that this was the reason that this injury happened – it was to refocus my life and to help others who experience the same thing.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+## 
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+Now, just because I figured that out doesn’t mean that spring got any easier. It still was probably the hardest thing I have ever completed in my life. The frustration of being so close to playing but not quite cleared was also a factor in how hard it was on me. I just wanted to play soccer again SO BADLY, and I wasn’t being very patient. I had to watch my team play games without me and that was so hard. Luckily, Tom kept me focused and grounded and wouldn’t let me push myself beyond what I should have. I’m forever thankful for his patience and care for me.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+## 
 
-## What you need to know before trying
+ Somehow, spring season came to an end when it felt like it never would. We had about a week to get moved out of the dorms and get ready to go to Germany, Austria, and Switzerland for our team international trip!! We were all so excited and I was looking forward to potentially playing in the games during that trip.
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+##
